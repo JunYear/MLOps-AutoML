@@ -1,31 +1,32 @@
 # MLOPs-AutoML
 
-## mindmap
+## AI-JOBs Mindmap
 ```mermaid
-	mindmap
-	  root((AI JOB))
-	    Data
-	        Data 리서처
-	        Data 엔지니어
-	        Data 애널리틱스
-	    ML
-	        ML 엔지니어
-	        AI 리서처
-	    S/W Dev
-	        AI 개발자
-	        로보틱스 엔지니어
-	    AI Theory
-	        컴퓨터 비전 엔지니어
-	        자연어 처리 엔지니어
-	    Cloud & Infra
-	        Cloud 엔지니어
-	    MLOps
-	        MLOps 엔지니어
-	    Prompt
-	        Prompt 엔지니어
-	    Computer Science
-	        컴퓨터 사이언티스트
-
+mindmap
+  root((AI JOB))
+    Data
+        데이터 리서처
+        데이터 엔지니어
+        데이터 애널리틱스
+    ML
+        ML 엔지니어
+        AI 리서처
+    S/W Dev
+        AI 개발자
+        로보틱스 엔지니어
+    AI Theory
+        컴퓨터 비전 엔지니어
+        자연어 처리 엔지니어
+    Cloud & Infra
+        클라우드 엔지니어
+    MLOps
+        MLOps 엔지니어
+    AutoML
+        AutoML 전문가
+    Prompt
+        프롬프트 엔지니어
+    컴퓨터 사이언스
+        컴퓨터 사이언티스트
 ```
 
 
